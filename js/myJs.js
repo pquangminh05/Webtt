@@ -137,9 +137,7 @@ $(document).ready(function () {
           title: textConfig.text10,
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
-          onClose: () => {
-            window.location = "https://www.messenger.com/";
-          },
+          
         });
       }
     });
